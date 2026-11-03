@@ -45,7 +45,7 @@ Educational use is permitted with attribution. For other uses, please contact th
 
 ### Attribution
 If you reference these materials, please cite:  
-Earthborne Curatives. *Krill Oil in Canine and Feline Medicine* (Veterinary CE Modules). 2026. https://github.com/YOURUSERNAME/YOURREPO
+Earthborne Curatives. *Krill Oil in Canine and Feline Medicine* (Veterinary CE Modules). 2026. https://github.com/MCattell01/krill-oil-veterinary-ce
 
 ## Related Resources
 - Product information and third-party testing: [krilpet.com](https://www.krilpet.com)
