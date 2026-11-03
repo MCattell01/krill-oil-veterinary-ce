@@ -1,8 +1,8 @@
- # Veterinary Continuing Education: Krill Oil in Canine and Feline Medicine
+# Veterinary Continuing Education: Krill Oil in Canine and Feline Medicine
 
 Educational modules on high-astaxanthin and concentrated phospholipid krill oil for dogs and cats.
 
-These materials cover phospholipid-bound omega-3 delivery, astaxanthin co-localization and mechanisms, evidence-based EPA + DHA dosing, Omega-3 Index monitoring (dogs), and practical product selection for joint support and general well-being.
+These materials cover phospholipid-bound omega-3 delivery, astaxanthin co-localization and mechanisms, evidence-based EPA + DHA dosing, Omega-3 Index monitoring (dogs), and practical product selection for joint support and senior cognitive support.
 
 ## Modules
 
@@ -18,20 +18,23 @@ Topics include:
 - Evidence-based EPA + DHA dosing and the NRC safe upper limit (dogs)
 
 ### Module Two
-**Concentrated phospholipid krill oil for cognition**  
-*In preparation*
+**Concentrated Phospholipid Krill Oil and Cognition**  
+*Lyso-PC–DHA transport, phosphatidylcholine, choline, and astaxanthin neuroprotection*
+
+Topics include:
+- Lyso-PC–DHA transport across the blood–brain barrier via Mfsd2a
+- Dual role of phosphatidylcholine (membrane lipid and acetylcholine precursor)
+- Astaxanthin neuroprotection (BBB transit, microglia, mitochondria)
+- Cognition-range EPA/DHA dosing and monitoring with the Omega-3 Index (dogs only)
 
 ## Intended Audience
 Veterinarians and veterinary professionals seeking evidence-informed continuing education on marine omega-3s and krill oil in companion animals.
 
-## Contents
-- Module One slides (PowerPoint)
-- Supporting notes and references
-- Additional modules will be added as they are completed
-
 ## Files
-- `Module1_KrillOil_Joints_Astaxanthin.pptx`
-- Supporting notes or PDF exports (as available)
+- `module1_joint_support_titles_intact.pdf` — Module One slides
+- `Module1_Notes_and_Quiz.pdf` — Module One speaker notes summary and self-assessment quiz
+- `module2_original_with_links.pdf` — Module Two slides
+- `Module2_Notes_and_Quiz.pdf` — Module Two speaker notes summary and self-assessment quiz
 - `README.md`
 
 ## Disclaimer
@@ -52,5 +55,7 @@ Earthborne Curatives. *Krill Oil in Canine and Feline Medicine* (Veterinary CE M
 - Earthborne Curatives
 
 ---
+
+*Last updated: November 2026*
 
 *Last updated: November 2026*
